@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
+  - Value u
+  - Identifier u
+  - Variable u
   - Constant
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function u
   - Procedure
   - Method
   - Class
@@ -52,7 +52,7 @@
   - Code block
   - Conditions
   - Loops
-  - Assignment
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types h
   - Reference types
   - Type systems
   - Strong typing
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler h
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
