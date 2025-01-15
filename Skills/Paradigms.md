@@ -2,9 +2,9 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
   - Functional programming
   - Prototype-based programming
   - Object-oriented programming
@@ -12,7 +12,7 @@
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming

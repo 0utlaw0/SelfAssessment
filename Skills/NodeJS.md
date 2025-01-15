@@ -78,12 +78,12 @@
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -92,7 +92,7 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 👂 heard
   - CI/CD
   - Readable
   - Writable

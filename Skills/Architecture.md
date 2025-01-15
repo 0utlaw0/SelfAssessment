@@ -12,7 +12,7 @@
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories: 🖐️ used
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -23,15 +23,15 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality h
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
+  - System vs applied code: 👂 heard
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
@@ -75,7 +75,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code

@@ -1,28 +1,28 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
   - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
+  - `typeof`: 🎓 known
   - Destructuring
   - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining: 👂 heard
   - Optional chaining
   - IIFE
   - Async IIFE
@@ -32,24 +32,24 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 👂 heard
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
   - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
+  - Template literal: 🖐️ used
+  - Strict mode: 👂 heard
+  - Hoisting: 🎓 known
   - `delete`
   - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,30 +59,30 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw`: 👂 heard
+  - `break`: 🖐️ used
+  - `continue`: 🎓 known
   - `import`
   - `export`
-  - `label`
+  - `label`: 👂 heard
   - `try..catch`
-  - `switch`
+  - `switch`: 🖐️ used
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration: 👂 heard
+  - Function expression: 👂 heard
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,9 +90,9 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 🖐️ used
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -102,7 +102,7 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -111,12 +111,12 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

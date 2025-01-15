@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm: 🎓 known
+  - Syntax: 👂 heard
+  - Semantics: 👂 heard
   - Abstraction
-  - Paradigm
+  - Paradigm: 👂 heard
   - Programm
-  - Programming paradigm
-  - Programming language
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
   - Module
   - Library
@@ -19,9 +19,9 @@
   - Component
   - Framework
   - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
   - Software engineering
   - Decomposition
@@ -29,45 +29,45 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
   - Constant
   - Scalar
-  - Literal
-  - Expression
+  - Literal: 👂 heard
+  - Expression: 🖐️ used
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method
+  - Method: 🖐️ used
   - Class
   - Prototype
   - Event
-  - Type
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope
+  - Lexical scope: 👂 heard
   - Code block
-  - Conditions
-  - Loops
-  - Assignment u
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
   - Trailing commas
-  - Return early
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types h
-  - Reference types
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 👂 heard
   - Closure
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 👂 heard
+  - Hash table: 👂 heard
   - Linked list
   - Doubly list
   - Unrolled list
@@ -126,9 +126,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization: 👂 heard
   - String parsing
-  - JSON
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler h
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,26 +152,26 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime: 🖐️ used
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 🖐️ used
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git
-  - Github h
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 🖐️ used
+  - Unix: 👂 heard
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
