@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm k
+  - Syntax h
+  - Semantics h
   - Abstraction
-  - Paradigm
+  - Paradigm h
   - Programm
-  - Programming paradigm
-  - Programming language
+  - Programming paradigm h
+  - Programming language u
   - Contract
   - Module
   - Library
@@ -19,9 +19,9 @@
   - Component
   - Framework
   - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Source code h
+  - Object code h
+  - Machine code h
   - Microcode
   - Software engineering
   - Decomposition
@@ -29,29 +29,29 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
   - Value u
   - Identifier u
   - Variable u
   - Constant
   - Scalar
-  - Literal
-  - Expression
+  - Literal h
+  - Expression u
   - Heap
   - Function u
   - Procedure
-  - Method
+  - Method u
   - Class
   - Prototype
   - Event
-  - Type
+  - Type u
   - Flag
-  - Lexical scope
+  - Lexical scope h
   - Code block
-  - Conditions
-  - Loops
+  - Conditions u
+  - Loops u
   - Assignment u
   - Regular expression
   - Interface
@@ -59,15 +59,15 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case k
+  - Kebab case k
   - Trailing commas
-  - Return early
+  - Return early u
   - Fail-fast
 - Types
-  - Primitive types h
-  - Reference types
+  - Primitive types u
+  - Reference types u
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
+  - Side effects h
   - Closure
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object u
+  - Collection u
+  - Set h
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
@@ -126,9 +126,9 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization h
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler h
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,26 +152,26 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime u
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github h
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers k
   - Hard code
   - Soft code
   - Cryptic code
@@ -186,14 +186,14 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops k
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,8 +214,8 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux u
+  - Unix h
   - BSD
   - MacOS h
   - Windows u
